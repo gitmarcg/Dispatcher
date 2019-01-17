@@ -83,6 +83,6 @@ $_SESSION['NomClient']=$NomClient;
 CloseCon($conn) ;
 
 
-$action = "Billets";
-header("Location: clients.php?id=$NumMembre&action=$action");
+$action = "Employé";
+header("Location: home.php?id=$NumMembre&action=$action");
 ?>
