@@ -30,7 +30,7 @@ if (isset($_COOKIE['cookie']))
 
     <div class="container">
         <div class="card card-container">
-        <h1 align="center">Dispatcheursss</h1>
+        <h1 align="center">Dispatcheurs</h1>
         <img id="profile-img" class="profile-img-card" src="images/LogoLong.jpg?sz=5000" alt="" /> 
            <!-- <img id="profile-img" class="profile-img-card" src="images/LogoMx75x59.jpg?sz=120" alt="" />   --> 
             <!-- <img id="profile-img" class="profile-img-card" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" />' --> 
